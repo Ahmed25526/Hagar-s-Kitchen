@@ -399,7 +399,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("https://pps.whatsapp.net/v/t61.24694-24/250324474_520237862697703_4076060752201563132_n.jpg?ccb=11-4&oh=1a4a30705904046d917b4368720426c3&oe=620512CC") top center;
+  background: url("../img/hero1.jpg") top;
   background-size: cover;
   position: relative;
   padding: 0;
